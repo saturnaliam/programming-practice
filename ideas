@@ -1,5 +1,7 @@
-C
-    unit conversions? f -> c, kg -> lbs, inch -> cm, etc.
-    matrix multiplication
-    matrix rotation
-    quick sort
+unit conversions? f -> c, kg -> lbs, inch -> cm, etc.
+matrix multiplication
+matrix rotation
+quick sort
+fizzbuzz
+collatz conjecture
+sieve of eratosthenes
