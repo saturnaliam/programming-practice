@@ -1,9 +1,12 @@
 unit conversions? f -> c, kg -> lbs, inch -> cm, etc.
 matrix multiplication
 matrix rotation
+matrix addition
 quick sort
 fizzbuzz
 collatz conjecture
 sieve of eratosthenes
 reverse a string
 bubble sort
+roman -> int
+int -> roman
