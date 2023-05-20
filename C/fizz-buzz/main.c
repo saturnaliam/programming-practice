@@ -3,7 +3,7 @@
 
 int main() {
     for (int i = 1; i <= 100; i++) {
-        char c[sizeof(i) * 8] = {};
+        char c[sizeof(i) * 8] = {0};
 
         if (i % 3 == 0) strcat(c, "Fizz");
         if (i % 5 == 0) strcat(c, "Buzz");
